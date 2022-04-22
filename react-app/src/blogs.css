@@ -1,0 +1,17 @@
+.bContainer {
+  box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+  margin: 30px;
+  padding: 20px;
+}
+
+.bContainer h5 {
+  background: #f4f4f4;
+  padding: 10px;
+  margin: 10px auto;
+  color: var(--primary_color);
+}
+
+.bContainer .component {
+  display: flex;
+
+}
